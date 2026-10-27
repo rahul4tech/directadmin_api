@@ -1,0 +1,4 @@
+domain,subdomain,ns1,ns2
+example.com,api,ns1.dns-provider.net,ns2.dns-provider.net
+example.com,tracking,ns1.dns-provider.net,ns2.dns-provider.net
+example.org,click,ns1.other-provider.net,ns2.other-provider.net
